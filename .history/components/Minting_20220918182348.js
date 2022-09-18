@@ -8,10 +8,16 @@ const Minting = () => {
           <h2>
             Welcome to <br /> the Bored Ape <br /> Yach Club
           </h2>
-          <div className="flex p-2">
+          <div className="flex py-1 px-1 pb-2 pr-2">
             <button className="bg-[#bfc500] hover:bg-white text-black font-bold py-2 px-4 rounded uppercase grow">
               Connect Wallet
             </button>
+            <div className="scroll m-auto pr-0 col-2">
+              <div>
+                
+              </div>
+
+            </div>
           </div>
         </div>
       </div>

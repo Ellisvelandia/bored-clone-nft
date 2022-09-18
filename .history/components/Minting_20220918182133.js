@@ -8,7 +8,7 @@ const Minting = () => {
           <h2>
             Welcome to <br /> the Bored Ape <br /> Yach Club
           </h2>
-          <div className="flex p-2">
+          <div className="flex mb-4 w-100 bayc-button mt-2 pb-2 pr-2">
             <button className="bg-[#bfc500] hover:bg-white text-black font-bold py-2 px-4 rounded uppercase grow">
               Connect Wallet
             </button>

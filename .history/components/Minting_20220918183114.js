@@ -9,7 +9,7 @@ const Minting = () => {
             Welcome to <br /> the Bored Ape <br /> Yach Club
           </h2>
           <div className="flex p-2">
-            <button className="bg-[#bfc500] hover:bg-white text-black font-bold py-2 px-4 rounded uppercase grow">
+            <button className="bg-[#bfc500] hover:bg-whittext-black font-bold py-2 px-4 rounded uppercase grow">
               Connect Wallet
             </button>
           </div>
