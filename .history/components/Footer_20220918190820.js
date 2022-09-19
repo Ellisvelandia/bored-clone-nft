@@ -7,6 +7,10 @@ const Footer = () => {
         A limited NFT collection where the token itself doubles as your
         membership to a swamp <br /> club for apes. The club is open! Ape in with us.
       </div>
+
+      <div class>
+
+      </div>
     </div>
   );
 };
